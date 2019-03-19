@@ -3,7 +3,7 @@
 
 
 #### 1. What is a namespace?
-      * Namespace is a way to organize and group code so that you can use the same function names and classes without causing confliction within a program. 
+* Namespace is a way to organize and group code so that you can use the same function names and classes without causing confliction within a program. 
       
 #### 2. What are value types? 
 
