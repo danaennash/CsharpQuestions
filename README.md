@@ -96,7 +96,7 @@
 
 #### 24. List the differences between Array and ArrayList.
 
-     Array | ArrayList
+    Array | ArrayList
     ------ | ---------
     Stores specific types of elements & items | Stores any type of elements/items
     Can only store on data type | Can store all data type values
