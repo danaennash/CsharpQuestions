@@ -96,11 +96,11 @@
 
 #### 24. List the differences between Array and ArrayList.
 
-    Array | ArrayList
-    ------ | ---------
-    Stores specific types of elements & items | Stores any type of elements/items
-    Can only store on data type | Can store all data type values
-    Null not accepted | Null accepted
+   Array | ArrayList
+   ------ | ---------
+   Stores specific types of elements & items | Stores any type of elements/items
+   Can only store on data type | Can store all data type values
+   Null not accepted | Null accepted
     
 #### 25. What is an object?
 
