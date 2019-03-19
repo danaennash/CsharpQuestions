@@ -13,7 +13,7 @@
 
       * Reference types points to a memory location that holds the data needed/requested.
       
-4. What is an automatic property and how is it useful?
+#### 4. What is an automatic property and how is it useful?
       *
 5. What is the purpose of using statement?
       *
