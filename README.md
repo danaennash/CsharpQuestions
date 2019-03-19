@@ -1,13 +1,19 @@
 # CsharpQuestions
-Assignment for INFOTC 2040 
+## Assignment for INFOTC 2040 
 
 
-1. What is a namespace?
+#### 1. What is a namespace?
+
       * Namespace is a way to organize and group code so that you can use the same function names and classes without causing         confliction within a program. 
-2. What are value types? 
+      
+#### 2. What are value types? 
+
       * Value types are data types that hold data within their own memory that is allocated.
-3. What are reference types?
+      
+#### 3. What are reference types?
+
       * Reference types points to a memory location that holds the data needed/requested.
+      
 4. What is an automatic property and how is it useful?
       *
 5. What is the purpose of using statement?
