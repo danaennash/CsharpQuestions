@@ -106,13 +106,43 @@
 
      An object is a block of memory within a class that has been allocated and configured.
 
-26. Define constructor.
-27. When can var be used to declare a variable and how is the type for the variable determined?
-28. What is an abstract class?
-29. What is an interface?
-30. What is a method?
-31. What is a property?
-32. What is an access specifier?
-33. What access specifiers are supported and what do they mean?
-34. What is a collection?
-35. What is a Hash Table?
+#### 26. Define constructor.
+
+     A constructor is a special method class that gets invoked automatically when a class is created.
+
+#### 27. When can var be used to declare a variable and how is the type for the variable determined?
+
+     Var can be used in many instances such as on local variables, in a for statement, a foreach statement, a using statement, and etc. The type for the variable is determined through the instance of System.Type and calling GetType.
+
+#### 28. What is an abstract class?
+
+     An abstract class is a base class that many derived classes can share. Used as an parameter to many of its functions. 
+
+#### 29. What is an interface?
+
+     An interface contains definitions for a group of similar functions that is implemented by a class or struct. 
+
+#### 30. What is a method?
+
+     A method is a code block that contains a series of statements.
+
+#### 31. What is a property?
+
+     A property is a member that provides a mechanism to read, write, or compute the value of a private field.
+
+#### 32. What is an access specifier?
+
+     Access specifiers are keywords to specify the type and member's accessibility.
+
+#### 33. What access specifiers are supported and what do they mean?
+
+     Access specifiers that are supported are private, public, internal, protected, and protected internal. Private limits the accessibility within the defined type. Public has no limits, internal is important when you want your members to be accessible within the assembly. Protected is used when inheritance is used and protected internal is a combination of both protected and internal.
+
+#### 34. What is a collection?
+
+    Collection are specialized classes for data storage and retrieval. 
+
+#### 35. What is a Hash Table?
+
+    A hash table is a special collection used to store key-value items.  
+
